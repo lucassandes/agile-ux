@@ -1,0 +1,70 @@
+/* google fonts */
+@import url('https://fonts.googleapis.com/css?family=Roboto+Condensed:400,700|Roboto:400,400i,700');
+.skills_edited {
+  text-align: left;
+  margin: 0 0 0 0;
+}
+.skills_edited .skill {
+  display: block;
+  clear: both;
+  margin-top: 0;
+  margin-bottom: 25px;
+}
+.skills_edited .skill .skill-count {
+  display: inline-block;
+  height: 64px;
+  margin-top: 3px;
+  float: left;
+  margin-right: 15px;
+  margin-bottom: 25px;
+}
+.canvas-hack {
+  width: 100px;
+}
+.col-centered {
+  float: none;
+  margin: 0 auto;
+}
+.skills_edited li:last-child {
+  margin-bottom: 0;
+}
+.skills_edited .skill .skill1,
+.skill2,
+.skill3,
+.skill4 {
+  font-size: 16px !important;
+}
+.skills_edited .skill .section-legend {
+  text-transform: uppercase;
+  text-align: center;
+  font-weight: 700;
+  clear: none;
+  width: auto;
+  float: none;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+.skills_edited .skill p {
+  text-align: center;
+  line-height: 20px;
+  font-size: 14px;
+  color: #8f8f8f;
+}
+.skills_edited .skill .skill1,
+.skill2,
+.skill3,
+.skill4 {
+  margin-right: -50px;
+}
+.skills_edited .skill .skill-count {
+  margin-left: 15px;
+}
+.skills_edited li:last-child {
+  margin-bottom: 0;
+}
+/*--------- */
+.about-us .big-intro {
+  text-align: left;
+  padding-bottom: 30px;
+  margin-top: 0;
+}
